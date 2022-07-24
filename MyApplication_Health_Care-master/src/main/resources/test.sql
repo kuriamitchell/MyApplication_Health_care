@@ -1,0 +1,1 @@
+insert into patient values(2,"Dieudonne","Tsongo",25,"Mail","+2547896587","Headach");
